@@ -1,0 +1,112 @@
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\\QLKS\QLKS\obj\Debug\QLKS.csproj.AssemblyReference.cache
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\\QLKS\QLKS\obj\Debug\QLKS.login.resources
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\\QLKS\QLKS\obj\Debug\QLKS.menu.resources
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\\QLKS\QLKS\obj\Debug\QLKS.NhanVien.resources
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\\QLKS\QLKS\obj\Debug\QLKS.DichVu.resources
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\\QLKS\QLKS\obj\Debug\QLKS.Phong.resources
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\\QLKS\QLKS\obj\Debug\QLKS.HoaDon.resources
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\\QLKS\QLKS\obj\Debug\QLKS.KhachHanng.resources
+C:\Users\Acer\Downloads\\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Acer\Downloads\\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Acer\Downloads\\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Acer\Downloads\\QLKS\QLKS\obj\Debug\QLKS.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\\QLKS\QLKS\obj\Debug\QLKS.DichVu.resources
+C:\Users\Acer\Downloads\\QLKS\QLKS\obj\Debug\QLKS.HoaDon.resources
+C:\Users\Acer\Downloads\\QLKS\QLKS\obj\Debug\QLKS.KhachHanng.resources
+C:\Users\Acer\Downloads\\QLKS\QLKS\obj\Debug\QLKS.login.resources
+C:\Users\Acer\Downloads\\QLKS\QLKS\obj\Debug\QLKS.menu.resources
+C:\Users\Acer\Downloads\\QLKS\QLKS\obj\Debug\QLKS.NhanVien.resources
+C:\Users\Acer\Downloads\\QLKS\QLKS\obj\Debug\QLKS.Phong.resources
+C:\Users\Acer\Downloads\\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Acer\Downloads\\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Acer\Downloads\\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Done\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Done\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Done\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Done\QLKS\QLKS\obj\Debug\QLKS.csproj.AssemblyReference.cache
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Done\QLKS\QLKS\obj\Debug\QLKS.DichVu.resources
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Done\QLKS\QLKS\obj\Debug\QLKS.HoaDon.resources
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Done\QLKS\QLKS\obj\Debug\QLKS.KhachHanng.resources
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Done\QLKS\QLKS\obj\Debug\QLKS.login.resources
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Done\QLKS\QLKS\obj\Debug\QLKS.menu.resources
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Done\QLKS\QLKS\obj\Debug\QLKS.NhanVien.resources
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Done\QLKS\QLKS\obj\Debug\QLKS.Phong.resources
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Done\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Done\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Done\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Done\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\KHOI\OneDrive\Máy tính\DOAN_THUY_II\Done\QLKS\QLKS\obj\Debug\QLKS.pdb
+D:\loan\Done\QLKS\QLKS\bin\Debug\QLKS.exe.config
+D:\loan\Done\QLKS\QLKS\bin\Debug\QLKS.exe
+D:\loan\Done\QLKS\QLKS\bin\Debug\QLKS.pdb
+D:\loan\Done\QLKS\QLKS\obj\Debug\QLKS.csproj.AssemblyReference.cache
+D:\loan\Done\QLKS\QLKS\obj\Debug\QLKS.DichVu.resources
+D:\loan\Done\QLKS\QLKS\obj\Debug\QLKS.HOADON1.resources
+D:\loan\Done\QLKS\QLKS\obj\Debug\QLKS.KhachHanng.resources
+D:\loan\Done\QLKS\QLKS\obj\Debug\QLKS.login.resources
+D:\loan\Done\QLKS\QLKS\obj\Debug\QLKS.menu.resources
+D:\loan\Done\QLKS\QLKS\obj\Debug\QLKS.NhanVien.resources
+D:\loan\Done\QLKS\QLKS\obj\Debug\QLKS.Phong.resources
+D:\loan\Done\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+D:\loan\Done\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+D:\loan\Done\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+D:\loan\Done\QLKS\QLKS\obj\Debug\QLKS.exe
+D:\loan\Done\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\KHOI\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\KHOI\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\KHOI\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\KHOI\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\obj\Debug\QLKS.csproj.AssemblyReference.cache
+C:\Users\KHOI\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\obj\Debug\QLKS.DichVu.resources
+C:\Users\KHOI\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\obj\Debug\QLKS.HOADON1.resources
+C:\Users\KHOI\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\obj\Debug\QLKS.KhachHanng.resources
+C:\Users\KHOI\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\obj\Debug\QLKS.login.resources
+C:\Users\KHOI\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\obj\Debug\QLKS.menu.resources
+C:\Users\KHOI\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\obj\Debug\QLKS.NhanVien.resources
+C:\Users\KHOI\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\obj\Debug\QLKS.Phong.resources
+C:\Users\KHOI\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\KHOI\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\KHOI\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\KHOI\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\KHOI\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\avu23\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\avu23\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\avu23\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\avu23\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\obj\Debug\QLKS.csproj.AssemblyReference.cache
+C:\Users\avu23\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\obj\Debug\QLKS.DichVu.resources
+C:\Users\avu23\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\obj\Debug\QLKS.HOADON1.resources
+C:\Users\avu23\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\obj\Debug\QLKS.KhachHanng.resources
+C:\Users\avu23\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\obj\Debug\QLKS.login.resources
+C:\Users\avu23\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\obj\Debug\QLKS.menu.resources
+C:\Users\avu23\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\obj\Debug\QLKS.NhanVien.resources
+C:\Users\avu23\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\obj\Debug\QLKS.Phong.resources
+C:\Users\avu23\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\avu23\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\avu23\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\avu23\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\avu23\Documents\Zalo Received Files\Done\Done\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\all the final\Done\Done\Done\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\all the final\Done\Done\Done\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\all the final\Done\Done\Done\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\all the final\Done\Done\Done\QLKS\QLKS\obj\Debug\QLKS.csproj.AssemblyReference.cache
+C:\all the final\Done\Done\Done\QLKS\QLKS\obj\Debug\QLKS.DichVu.resources
+C:\all the final\Done\Done\Done\QLKS\QLKS\obj\Debug\QLKS.HOADON1.resources
+C:\all the final\Done\Done\Done\QLKS\QLKS\obj\Debug\QLKS.KhachHanng.resources
+C:\all the final\Done\Done\Done\QLKS\QLKS\obj\Debug\QLKS.login.resources
+C:\all the final\Done\Done\Done\QLKS\QLKS\obj\Debug\QLKS.menu.resources
+C:\all the final\Done\Done\Done\QLKS\QLKS\obj\Debug\QLKS.NhanVien.resources
+C:\all the final\Done\Done\Done\QLKS\QLKS\obj\Debug\QLKS.Phong.resources
+C:\all the final\Done\Done\Done\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\all the final\Done\Done\Done\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\all the final\Done\Done\Done\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\all the final\Done\Done\Done\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\all the final\Done\Done\Done\QLKS\QLKS\obj\Debug\QLKS.pdb
